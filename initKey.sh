@@ -1,0 +1,2 @@
+cd
+xmodmap .xmodmaprc
