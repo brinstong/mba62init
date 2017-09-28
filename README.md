@@ -1,2 +1,2 @@
 # mba62init
-Init scripts for macbook air 2013 after kernel update
+Initialization scripts for macbook air 2013 after kernel update on Debian/ Fedora based systems.
